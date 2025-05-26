@@ -1,0 +1,80 @@
+  body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f2f4f8;
+      margin: 0;
+      line-height: 2;
+    }
+
+    .cv-container {
+      background: white;
+      max-width: 900px;
+      margin: auto;
+      padding: 40px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      display: flex;
+      flex-direction: row;
+      gap: 40px;
+    }
+
+    .left {
+      width: 35%;
+    }
+
+    .right {
+      width: 65%;
+    }
+
+    h1 {
+      font-size: 28px;
+      color: #2c2c78;
+      margin: 0 0 10px;
+    }
+
+    .label {
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 12px;
+      color: #888;
+      margin-top: 20px;
+    }
+
+    .info p {
+      margin: 4px 0;
+      font-size: 14px;
+      color: #333;
+    }
+
+    .section {
+      margin-bottom: 20px;
+    }
+
+    .section h3 {
+      color: #2c2c78;
+      margin: 0 0 4px;
+      font-size: 16px;
+    }
+
+    .section small {
+      font-size: 13px;
+      color: #555;
+    }
+
+    .skills, .langs, .competences {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 14px;
+      margin-top: 6px;
+    }
+
+    .skills span, .langs span, .competences span {
+      background: #e4e7eb;
+      padding: 4px 8px;
+      border-radius: 4px;
+    }
+
+    img.photo {
+      width: 100%;
+      max-width: 150px;
+      border-radius: 6px;
+    }

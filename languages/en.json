@@ -1,0 +1,14 @@
+{
+    "navbar": {
+        "lang": "Language",
+        "profile": "Professional Profile"
+    },
+    "opening": {
+        "salutation": "Hi, my name is <i>Josué Tautiva</i>",
+        "about-me": "I am a systems engineering student, passionate about technology and software development. I stand out for my analytical skills, logical thinking, and commitment to continuous learning. I am currently strengthening my skills in programming and databases, complementing my academic training with practical projects. My goal is to join professional environments where I can apply my knowledge, add value, and continue growing as a professional in the field of information technology."
+    },
+    "experience": {
+        "title": "Things I Have Done",
+        "description": "At the following link, you can access my GitHub portfolio and view the different applications I have developed."
+    }
+}

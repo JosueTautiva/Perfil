@@ -1,0 +1,25 @@
+#githubImage{
+    height:170px;
+    width:auto;/*maintain aspect ratio*/
+    max-width:500px;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.languages{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+
+}
+.lang-button{
+    background-color: transparent;
+
+}
+
+#profile{
+    align-self: center;
+    padding: 1px 2rem;
+}

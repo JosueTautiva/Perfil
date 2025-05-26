@@ -1,0 +1,14 @@
+{
+    "navbar":{
+        "lang":"Idioma",
+        "profile":"Perfil Profesional"
+    },
+    "opening":{
+        "salutation":"Hola mi nombre es <i>Josué Tautiva</i>",
+        "about-me":"Soy ingeniero de sistemas en formación, apasionado por la tecnología y el desarrollo de software. Me destaco por mi capacidad de análisis, pensamiento lógico y compromiso con el aprendizaje continuo. Actualmente fortalezco mis habilidades en programación y bases de datos, complementando mi formación académica con proyectos prácticos. Mi objetivo es integrarme a entornos profesionales donde pueda aplicar mis conocimientos, aportar valor y seguir creciendo como profesional en el ámbito de las tecnologías de la información."
+    },
+    "experience":{
+        "title":"Cosas que he realizado",
+        "description":"En el siguiente link podrás acceder a mi portafolio de GitHub y visualizar las diferentes aplicaciones que he realizado"
+    }
+}

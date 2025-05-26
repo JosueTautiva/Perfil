@@ -1,0 +1,14 @@
+{
+    "navbar": {
+        "lang": "Langue",
+        "profile": "Profil Professionnel"
+    },
+    "opening": {
+        "salutation": "Bonjour, je m'appelle <i>Josué Tautiva</i>",
+        "about-me": "Je suis un étudiant en ingénierie des systèmes passionné par la technologie et le développement logiciel. Je me distingue par mes compétences en analyse, ma pensée logique et mon engagement envers l'apprentissage continu. Je renforce actuellement mes compétences en programmation et en bases de données en complétant ma formation académique par des projets pratiques. Mon objectif est d'intégrer des environnements professionnels où je pourrai mettre à profit mes connaissances, apporter de la valeur et continuer à évoluer en tant que professionnel dans le domaine des technologies de l'information."
+    },
+    "experience": {
+        "title": "Choses que j'ai réalisées",
+        "description": "Via le lien suivant, vous pouvez accéder à mon portfolio GitHub et découvrir les différentes applications que j'ai développées."
+    }
+}
