@@ -1,11 +1,14 @@
+/* only for html requests */
 const lang_buttons = document.querySelectorAll("[data-language]");
 const texts_to_change = document.querySelectorAll("[data-value]");
 
 lang_buttons.forEach((button)=>{
     button.addEventListener("click", ()=>{
-        fetch(`../languages/${button.dataset.language}.json`)
+        fetch(`./languages/${button.dataset.language}.json`)
         .then(res => res.json())
         .then(data => {
+            console.log(data)
+            
             texts_to_change.forEach((elemento) =>{
                 const section = elemento.dataset.section;
                 const value = elemento.dataset.value;
@@ -15,3 +18,4 @@ lang_buttons.forEach((button)=>{
         })
     })
 })
+
